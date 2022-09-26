@@ -18,5 +18,5 @@ proj/
 
 3. Run `pip install .`
 
-
-
+# Tutorial
+See the [tutorial notebook](tutorial.ipynb)
