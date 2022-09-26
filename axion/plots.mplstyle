@@ -1,0 +1,22 @@
+axes.titlesize: 20
+axes.labelsize: 20
+lines.linewidth: 2
+lines.markersize: 10
+xtick.labelsize: 14
+ytick.labelsize: 14
+xtick.major.size: 10
+ytick.major.size: 10
+xtick.minor.size: 5
+ytick.minor.size: 5
+xtick.major.pad: 10
+ytick.major.pad: 10
+
+figure.titlesize: 35
+legend.fontsize: 18
+
+mathtext.fontset: cm
+
+font.family: serif
+font.sans-serif: Latin Modern Roman
+
+axes.prop_cycle: cycler('color', ['377eb8', 'ff7f00', '4daf4a', 'f781bf', 'a65628', '984ea3', '999999', 'e41a1c', 'dede00'])

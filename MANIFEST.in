@@ -1,0 +1,9 @@
+include rotaxion/lcm/mc/data/*.csv
+
+include *.md
+include *.txt
+include *.toml
+include LICENSE
+
+recursive-include rotaxion *.mplstyle
+recursive-include rotaxion *.csv
