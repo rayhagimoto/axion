@@ -7,12 +7,12 @@
 - `fastprogress` (`pip install fastprogress`)
 
 2. Enter root directory of project 'proj/` directory. This file has the structure
-	proj/
+```proj/
 ├─ axion/
 ├─ LICENSE
 ├─ MANIFEST.in
 ├─ README.md
-├─ setup.cfg
+├─ setup.cfg```
 
 3. Run `pip install .`
 
